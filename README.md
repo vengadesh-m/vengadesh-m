@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vengadesh-m
 - 👀 I’m interested in coding, mathematics and Web frameworks
-- 🌱 I’m currently learning ReactJS
+- I'm an FSD.
 
 <!---
 vengadesh-m/vengadesh-m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
